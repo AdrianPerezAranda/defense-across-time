@@ -1,73 +1,44 @@
-.utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-*.log
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+[Aa]rtifacts/
+.hpc/
 
-*.blend1
-*.blend1.meta
 
-/[Mm]emoryCaptures/
-
-/[Rr]ecordings/
-
-/[Aa]ssets/Plugins/Editor/JetBrains*
-
-*.DotSettings.user
-
+# IDE
 .vs/
-
-.gradle/
-
-ExportedObj/
-.consulo/
+.idea/
+.vscode/
 *.csproj
-*.unityproj
 *.sln
-*.suo
-*.tmp
 *.user
 *.userprefs
 *.pidb
+*.suo
 *.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
 
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
 
-sysinfo.txt
+# Unity Cache/Auto
+/[Aa]ssets/AssetStore-*/
+/[Aa]ssets/Plugins/Editor/JetBrains*/*
 
-mono_crash.*
 
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Builds/Exports
 *.apk
 *.aab
-*.unitypackage
-*.unitypackage.meta
+*.ipa
+*.exe
 *.app
-
-crashlytics-build.properties
-
-InitTestScene*.unity*
-
-/ServerData
-/[Aa]ssets/StreamingAssets/aa*
-/[Aa]ssets/AddressableAssetsData/link.xml*
-/[Aa]ssets/Addressables_Temp*
-
-/[Aa]ssets/AddressableAssetsData/*/*.bin*
-
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
-
-/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+*.xcodeproj
+*.xcworkspace

@@ -19,4 +19,4 @@ Proyecto final del grado DAM-Vi, desarrollado con Unity 6 y FMOD en equipo, usan
 - Organización con sprints semanales y tareas scrum
 
 ## 🔗 Demo
-Disponible en Itch.io: (https://adrian-perez-aranda.itch.io/defense-across-time)
+Disponible en Itch.io: *(https://adrian-perez-aranda.itch.io/defense-across-time)*

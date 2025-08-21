@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{f6f16fb2-1327-402f-b2e6-16cb7585967d}">
+		<property name="name">
+			<value>DefenseAcrossTime</value>
+		</property>
+		<relationship name="folder">
+			<destination>{58eecc8a-cf26-4897-a420-4600b21ec315}</destination>
+		</relationship>
+	</object>
+</objects>

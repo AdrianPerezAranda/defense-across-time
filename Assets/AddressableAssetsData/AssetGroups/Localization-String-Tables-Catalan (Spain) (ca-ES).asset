@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Catalan (Spain) (ca-ES)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Catalan (Spain) (ca-ES)
+  m_GUID: 2b686fb11d6d6134fbb5c12f298e9850
+  m_SerializeEntries:
+  - m_GUID: 30f07c5689b0a11498ba72b505ca93af
+    m_Address: Weapons_ca-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8094faa88b9e37f418c5c7e3db9f0e57
+    m_Address: Tutorial_ca-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87f74672bd87a394c80be95e76b6fe90
+    m_Address: Menus_ca-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ca-ES
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 13ca2388c8e610b42bfdf3ad5aa4a3ce, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1dd4595ed5cb7b344a2a98101228c06a, type: 2}
+    - {fileID: 11400000, guid: 6fbba0ebfa150ae4897f396e45c6f4d7, type: 2}

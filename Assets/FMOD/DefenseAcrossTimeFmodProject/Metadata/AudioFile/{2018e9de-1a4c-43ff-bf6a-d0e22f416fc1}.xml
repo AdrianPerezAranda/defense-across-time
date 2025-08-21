@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2018e9de-1a4c-43ff-bf6a-d0e22f416fc1}">
+		<property name="assetPath">
+			<value>Blunderbuss_shot.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.8842403628117914</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b08aa70-0a77-4c7f-b458-4f92fc4a9520}</destination>
+		</relationship>
+	</object>
+</objects>

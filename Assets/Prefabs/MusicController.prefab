@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2751101914415941321
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7680034330663263003}
+  - component: {fileID: 3755216151277745141}
+  m_Layer: 0
+  m_Name: MusicController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7680034330663263003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2751101914415941321}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -29.24655, y: 2.504763, z: 17.118595}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3755216151277745141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2751101914415941321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba44a083ceb36144d9809468912760b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventReferenceBowShot:
+    Guid:
+      Data1: 1864458255
+      Data2: 1223021344
+      Data3: 1971302575
+      Data4: -323020461
+    Path: event:/Bow_Shoot
+  eventReferenceBlunderbussShot:
+    Guid:
+      Data1: -2056354288
+      Data2: 1202248651
+      Data3: 1894049180
+      Data4: 1423694249
+    Path: event:/Blunderbuss_shot
+  eventReferencePlayerSteps:
+    Guid:
+      Data1: 1882589448
+      Data2: 1279462004
+      Data3: -1561265250
+      Data4: 943041540
+    Path: event:/Players_Step
+  eventReferenceEnemyScream:
+    Guid:
+      Data1: -1682396391
+      Data2: 1293922320
+      Data3: 832200583
+      Data4: 1309396549
+    Path: event:/Enemy_Scream
+  eventReferenceEnemySound:
+    Guid:
+      Data1: -1918972715
+      Data2: 1292981271
+      Data3: -134537537
+      Data4: 1638238340
+    Path: event:/EnemySound
+  eventReferenceButtonClick:
+    Guid:
+      Data1: 243968083
+      Data2: 1220297079
+      Data3: 771805318
+      Data4: -395369405
+    Path: event:/ButtonClick
+  eventReferenceBuyItem:
+    Guid:
+      Data1: 1395555142
+      Data2: 1325238965
+      Data3: -1629309524
+      Data4: 1787838535
+    Path: event:/BuyItem
+  eventReferenceCatapultSound:
+    Guid:
+      Data1: 2122992835
+      Data2: 1289177532
+      Data3: -2050343766
+      Data4: 1490951651
+    Path: event:/CatapultSound
+  eventReferenceDefeat:
+    Guid:
+      Data1: 191603063
+      Data2: 1222310747
+      Data3: 2068487846
+      Data4: -950763394
+    Path: event:/Defeat
+  eventReferenceFlameThrower:
+    Guid:
+      Data1: -738250714
+      Data2: 1177847532
+      Data3: -13009740
+      Data4: 540990521
+    Path: event:/FlameThrower
+  eventReferenceHeadshot:
+    Guid:
+      Data1: -546260331
+      Data2: 1086883589
+      Data3: 1820521398
+      Data4: -729422770
+    Path: event:/Headshot
+  eventReferencePlayerHurt:
+    Guid:
+      Data1: 1204470057
+      Data2: 1236086280
+      Data3: -1846474869
+      Data4: -1813266365
+    Path: event:/PlayerHurt
+  eventReferenceReloadGun:
+    Guid:
+      Data1: 412951663
+      Data2: 1150116041
+      Data3: -808645451
+      Data4: 612511896
+    Path: event:/ReloadGun
+  eventReferenceStartRound:
+    Guid:
+      Data1: -1410087894
+      Data2: 1153100964
+      Data3: -336542580
+      Data4: 1275066620
+    Path: event:/StartRound
+  eventReferenceStartRoundBoss:
+    Guid:
+      Data1: 1570363667
+      Data2: 1163303259
+      Data3: -911596119
+      Data4: 584987924
+    Path: event:/BossRound
+  eventReferenceTimeMachine:
+    Guid:
+      Data1: 961294454
+      Data2: 1083524345
+      Data3: -257949012
+      Data4: -1031555166
+    Path: event:/TimeMachine
+  eventReferenceWin:
+    Guid:
+      Data1: 1529059366
+      Data2: 1253547654
+      Data3: 1407332520
+      Data4: -578130293
+    Path: event:/Win
+  eventReferenceTorretaTesla:
+    Guid:
+      Data1: -589579663
+      Data2: 1128298309
+      Data3: 428320682
+      Data4: 593046023
+    Path: event:/TorretaTesla
+  eventReferenceTorretaGravedad:
+    Guid:
+      Data1: 1057416295
+      Data2: 1300763129
+      Data3: 1041702832
+      Data4: 10389691
+    Path: event:/TorretaGravedad
+  eventReferenceBowShot2:
+    Guid:
+      Data1: 1115646762
+      Data2: 1210767922
+      Data3: 1811986316
+      Data4: -1203829178
+    Path: event:/Bow_Shoot2
+  eventReferenceSpawnEnemyTutorial:
+    Guid:
+      Data1: 1106295304
+      Data2: 1097226321
+      Data3: 131398542
+      Data4: 172692467
+    Path: event:/SpawnEnemyTutorial
+  eventReferenceKillEnemyTutorial:
+    Guid:
+      Data1: 1229431170
+      Data2: 1190747216
+      Data3: 952440449
+      Data4: 272117271
+    Path: event:/KillEnemyTutorial
+  eventReferenceHitmarker:
+    Guid:
+      Data1: -742569836
+      Data2: 1205608268
+      Data3: 180006831
+      Data4: -955044227
+    Path: event:/Hitmarker
+  eventReferenceMusicFuture:
+    Guid:
+      Data1: 2134046724
+      Data2: 1251431379
+      Data3: -450990971
+      Data4: 1279284598
+    Path: event:/MusicFuturo
+  eventReferenceMusicMiddleAge:
+    Guid:
+      Data1: 139680074
+      Data2: 1192224342
+      Data3: 718061477
+      Data4: 499572712
+    Path: event:/MusicMiddleAge
+  eventReferenceMusicPrehistoric:
+    Guid:
+      Data1: 1566722556
+      Data2: 1198835376
+      Data3: -1280290656
+      Data4: -852184941
+    Path: event:/MusicPrehistoria
+  eventReferenceMusicMenu:
+    Guid:
+      Data1: 717355090
+      Data2: 1165428735
+      Data3: -1810563711
+      Data4: -1970111261
+    Path: event:/MusicMenu

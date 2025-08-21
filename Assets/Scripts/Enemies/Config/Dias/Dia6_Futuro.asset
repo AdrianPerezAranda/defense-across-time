@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c77e5bc4a25255f43bc20c1add8b75eb, type: 3}
+  m_Name: Dia6_Futuro
+  m_EditorClassIdentifier: 
+  epoca: 2
+  oleadas:
+  - {fileID: 11400000, guid: 5ed5ea15680509f46b6688b3f83647ed, type: 2}
+  - {fileID: 11400000, guid: 03241b32b69354b4ea8a654922499249, type: 2}
+  - {fileID: 11400000, guid: fc9bc4a6018bd3a4698a9a2536abbf2e, type: 2}

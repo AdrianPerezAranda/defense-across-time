@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menus Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menus
+  m_TableCollectionNameGuidString: 487ce7793ee3d3b468120dace8203bd0
+  m_Entries:
+  - m_Id: 61323386880
+    m_Key: "Jugar\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157482000384
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399241682944
+    m_Key: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 531114795008
+    m_Key: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 661305991168
+    m_Key: Pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008804077568
+    m_Key: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674343934906368
+    m_Key: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675165343207424
+    m_Key: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676426406842368
+    m_Key: VolumenGeneral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676673304547328
+    m_Key: Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676813494964224
+    m_Key: EfectosEspeciales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2473512609665024
+    m_Key: Perder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2475103651778560
+    m_Key: MenuPrincipal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2475753596932096
+    m_Key: ReiniciarEra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8679715372535808
+    m_Key: AvisoNuevaOleada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9770351378841600
+    m_Key: Ganar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15911167527636992
+    m_Key: Programadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15911527390531584
+    m_Key: Artistas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15921197417123840
+    m_Key: Omitir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863689293729792
+    m_Key: AvisoCambiarCamara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425303899123712
+    m_Key: MoverAdelante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425584368037888
+    m_Key: MoverAtras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425661920718848
+    m_Key: MoverDerecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425723631513600
+    m_Key: MoverIzquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425796511739904
+    m_Key: Disparar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425863930982400
+    m_Key: Apuntar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425906951958528
+    m_Key: Correr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425945904459776
+    m_Key: Saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425996768784384
+    m_Key: EmpezarOleada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21426071167348736
+    m_Key: 'Pausa:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21426131657601024
+    m_Key: Interactuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21956843242565632
+    m_Key: Trampa1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957323033194496
+    m_Key: Trampa2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957619029422080
+    m_Key: Trampa3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957795718672384
+    m_Key: Trampa4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957944868122624
+    m_Key: Trampa5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21958337685663744
+    m_Key: Trampa6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21958471609790464
+    m_Key: Inventario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21958932849012736
+    m_Key: ArbolTemporal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34638705050533888
+    m_Key: Guardar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34638788101947392
+    m_Key: Cargar
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4543934219417288804
+  references:
+    version: 2
+    RefIds:
+    - rid: 4543934219417288804
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1738694416316

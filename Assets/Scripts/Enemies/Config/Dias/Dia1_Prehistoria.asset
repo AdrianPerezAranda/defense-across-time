@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c77e5bc4a25255f43bc20c1add8b75eb, type: 3}
+  m_Name: Dia1_Prehistoria
+  m_EditorClassIdentifier: 
+  epoca: 0
+  oleadas:
+  - {fileID: 11400000, guid: 83366756a9dca97449efe43d89edfe89, type: 2}
+  - {fileID: 11400000, guid: 045959e017564bd4fbdd11db919e04dd, type: 2}
+  - {fileID: 11400000, guid: 486ff5c9be5a4524f8478e234c2d04bb, type: 2}

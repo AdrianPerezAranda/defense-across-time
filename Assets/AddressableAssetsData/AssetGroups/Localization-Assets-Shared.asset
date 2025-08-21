@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 5870a8649d6888c4eb4cd3fdf2cdc5b1
+  m_SerializeEntries:
+  - m_GUID: 487ce7793ee3d3b468120dace8203bd0
+    m_Address: Assets/LocalSettings/Tables/Menus Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dde8aeb5a9467c4caea6d3ca2502c59
+    m_Address: Assets/LocalSettings/Tables/Weapons Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcb692db8522f0c4388e1485c71c681f
+    m_Address: Assets/LocalSettings/Tables/Tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 13ca2388c8e610b42bfdf3ad5aa4a3ce, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 73c37612f7444b94cba8b67b6fb88a72, type: 2}
+    - {fileID: 11400000, guid: 81dad64d0fd307f4ca20677f80a7e798, type: 2}

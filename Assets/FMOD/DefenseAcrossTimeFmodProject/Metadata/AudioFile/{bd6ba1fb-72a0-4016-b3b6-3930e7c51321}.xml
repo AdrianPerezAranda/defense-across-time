@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bd6ba1fb-72a0-4016-b3b6-3930e7c51321}">
+		<property name="assetPath">
+			<value>Enemy_Screeam.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0563265306122447</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b08aa70-0a77-4c7f-b458-4f92fc4a9520}</destination>
+		</relationship>
+	</object>
+</objects>

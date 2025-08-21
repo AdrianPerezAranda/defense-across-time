@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c6f4af9d5c657488f7d0073fc230c1, type: 3}
+  m_Name: ParameterScript
+  m_EditorClassIdentifier: 
+  playerHealth: 100
+  playerVelocity: 10
+  playerJumpImpulse: 10
+  sprintMultiplier: 1.5
+  baseHealth: 20
+  dias:
+  - {fileID: 11400000, guid: e4b5d26bd29a74a40b039c79bc91766d, type: 2}
+  - {fileID: 11400000, guid: fc8a35da227f5a143858de789570c923, type: 2}
+  - {fileID: 11400000, guid: a3da307a1127726499a45f2dd1528a7b, type: 2}
+  - {fileID: 11400000, guid: c82fc0d5e3691f349ab98ce3e56427a6, type: 2}
+  - {fileID: 11400000, guid: 35f26633cbf3ef24bbdf83b3e17415d4, type: 2}
+  - {fileID: 11400000, guid: 53db131a3ea10a5409b29e1d5cef7741, type: 2}

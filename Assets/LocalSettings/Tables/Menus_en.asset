@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menus_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 487ce7793ee3d3b468120dace8203bd0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61323386880
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157482000384
+    m_Localized: "Audio\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399241682944
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 531114795008
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 661305991168
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008804077568
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674343934906368
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675165343207424
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676426406842368
+    m_Localized: General Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676673304547328
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 676813494964224
+    m_Localized: Special Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2473512609665024
+    m_Localized: You lost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2475103651778560
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2475753596932096
+    m_Localized: Restart Epoch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8679715372535808
+    m_Localized: for next wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9770351378841600
+    m_Localized: You win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15911167527636992
+    m_Localized: Programmers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15911527390531584
+    m_Localized: Artists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15921197417123840
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19863689293729792
+    m_Localized: for aerial view
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425303899123712
+    m_Localized: 'Move Forward:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425584368037888
+    m_Localized: 'Move Back:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425661920718848
+    m_Localized: 'Move Right:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425723631513600
+    m_Localized: 'Move Left:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425796511739904
+    m_Localized: 'Shoot:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425863930982400
+    m_Localized: 'Aim:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425906951958528
+    m_Localized: 'Run:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425945904459776
+    m_Localized: 'Jump:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425996768784384
+    m_Localized: 'Start wave:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21426071167348736
+    m_Localized: 'Pause:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21426131657601024
+    m_Localized: 'Interact:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21956843242565632
+    m_Localized: 'Trap 1:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957323033194496
+    m_Localized: 'Trap 2:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957619029422080
+    m_Localized: 'Trap 3:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957795718672384
+    m_Localized: 'Trap 4:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21957944868122624
+    m_Localized: 'Trap 5:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21958337685663744
+    m_Localized: 'Trap 6:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21958471609790464
+    m_Localized: inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21958932849012736
+    m_Localized: Temporary Tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34638705050533888
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34638788101947392
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
